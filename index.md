@@ -50,6 +50,7 @@ _While I provide rough guidelines on teaching/scholarship balance, the schools h
 - [Barnard College](#barnard) - October 22
 - [Lafayette College](#lafayette) - October 22
 - [Colorado College](#colorado) - October 25
+- [Ohio Wesleyan University](#owu) - October 25 (open until filled)
 - [Reed College](#reed) - October 25
 - [Oberlin College](#oberlin) - October 31
 - [Spelman College](#spelman) - October 31
@@ -223,6 +224,12 @@ _[Excerpt]The Computer Science Department at Oberlin College invites application
 
 _[back to deadlines](#deadlines)_
 
+### <a name = "owu">[P] Ohio Wesleyan University (Ohio)</a>
+_[Excerpt] Ohio Wesleyan University’s Department of Mathematics and Computer Science invites applications for a tenure track Assistant Professor position in computer science to begin in August 2022. We seek an enthusiastic instructor with a demonstrated interest in teaching a wide variety of computer science courses across the curriculum. Candidates who have experience in databases, software engineering, data mining, network security, or other applied computer science fields are especially encouraged to apply. Qualified candidates will (1) be excellent teachers, able to teach a variety of undergraduate computer science courses at all levels, (2) be eager to participate in the department’s efforts to engage in mentored research opportunities with students in mathematics, statistics, computer science, and data analytics, (3) maintain a productive, ongoing research program, and (4) contribute actively to the growth of the department and its efforts to attract and retain a diverse student body. Ideal candidates will have experience teaching and mentoring students of all backgrounds, including those who are traditionally underrepresented in computer science. We will also look favorably on candidates who can effectively teach courses in which students possess a range of skill levels. For more information, please see our postings on https://www.mathjobs.org/jobs/list/18174. This job is part of a cluster of positions with which Ohio Wesleyan seeks to further diversify its curriculum and faculty. For more information about the cluster, please visit https://owu.edu/joinOWUfaculty_
+- Review of applications will begin on **October 25, 2021** and will continue until the position is filled
+- [Link to application](https://www.mathjobs.org/jobs/list/18174)
+
+_[back to deadlines](#deadlines)_
 
 ### <a name="pomona">[P] Pomona College (California)</a>
 _[Excerpt] Pomona College seeks applications for an open-rank (assistant, associate, or full) Professor of Computer Science, to begin on July 1, 2022. All subfields of computer science will be considered. Candidates should have a broad background in computer science, be excellent teachers, have an active research program, and be excited about directing undergraduate research. The teaching load is two courses a semester for the two semesters a year. Faculty are expected to teach across all levels of the curriculum. Candidates should have a Ph.D. in hand by the start date. Pomona College is a highly selective liberal arts college with an enrollment of approximately 1600 students, all undergraduates. We seek to attract, develop, and retain the highest quality faculty and are committed to building a culturally diverse workplace. We value candidates who have experience working with students from diverse backgrounds and who are able to demonstrate a commitment to improving higher education for underrepresented students through their teaching, scholarship, or service._
